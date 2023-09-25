@@ -1,6 +1,6 @@
 # MusicJS14
 A simple Discord Music bot with buttons [TRY THIS CODE](https://discord.com/oauth2/authorize?client_id=1155436021350150164&scope=bot&permissions=1099511627775) by inviting this Discord Bot
-## 🍎 Discord ( under development )
+## 🍎 Discord (under development)
 As soon as possible I will build my discord server and post the link here 🙂
 ## 🤖 Commands
 :loud_sound: /play url - Paste a link.
