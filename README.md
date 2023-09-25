@@ -10,6 +10,8 @@ As soon as possible I will build my discord server and post the link here 🙂
 <br>⏯️ /resume - Resume a music.
 <br>⏭️ /skip - Skip a music.
 <br>:x: /stop - Stop a music.
+## ➕ Use Node Plus
+[Click here](https://github.com/NoReplyUI5/MusicJS14/releases/tag/node%2B) to know what is Node Plus (Node Plus is only for lazy people like me 🙂)
 ## 🏓 Single Command Installation
 1. Clone the MusicJS14 repository:
 
