@@ -1,5 +1,15 @@
 # MusicJS14
 A simple Discord Music bot with buttons [TRY THIS CODE](https://discord.com/oauth2/authorize?client_id=1155436021350150164&scope=bot&permissions=1099511627775) by inviting this Discord Bot
+## 🍎 Discord ( under development )
+As soon as possible I will build my discord server and post the link here 🙂
+## 🤖 Commands
+:loud_sound: /play url - Paste a link.
+<br>:loud_sound: /play search - Searched for music.
+<br>:loud_sound: /play playlist - Play from a playlist.
+<br>:pause_button: /pause - Pause a music.
+<br>⏯️ /resume - Resume a music.
+<br>⏭️ /skip - Skip a music.
+<br>:x: /stop - Stop a music.
 ## 🏓 Single Command Installation
 1. Clone the MusicJS14 repository:
 
