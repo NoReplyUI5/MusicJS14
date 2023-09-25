@@ -1,2 +1,6 @@
 # MusicJS14
-A very simple Discord bot. Light weight code. It is fully open source so anyone can use it :)
+[![Version][version-shield]](version-url)
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
